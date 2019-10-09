@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: in.phani.micronaut
+---
+testFramework: junit
+sourceLanguage: java
